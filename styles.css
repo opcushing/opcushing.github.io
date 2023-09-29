@@ -1,0 +1,19 @@
+:root {
+  --white: #f0f0f0;
+  --black: #202020;
+  --green: #688b58;
+  --blue: #4a9fd3;
+  --red: #db504a;
+  --orange: #ff8533;
+}
+
+body {
+  background-color: var(--white);
+  color: var(--black);
+  font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  color: var(--blue);
+}
