@@ -17,3 +17,24 @@ body {
 a {
   color: var(--blue);
 }
+
+icons {
+  text-align: center;
+}
+
+.icons ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  gap: 2rem;
+}
+
+.icons li {
+  float: left;
+}
+
+.icons img {
+  height: 60px;
+  width: auto;
+}
